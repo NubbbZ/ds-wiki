@@ -3,8 +3,7 @@
 * Dont assume that the same board type uses the same save chip.
 
 <details>
-
-**<summary>NTR-005 Board Types</summary>**
+<summary>NTR-005 Board Types</summary>
 
 | Board Type  | Front | Back |
 | ------------- | ------------- | ------------- |
