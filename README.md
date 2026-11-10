@@ -15,6 +15,6 @@ Welcome to my own personal project of Identifying/Organizing/Archiving and stori
 
 ## License
 
-[![License: CC BY-NC-SA 4.0](https://shields.io)](https://creativecommons.org)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/LICENSE-CC%20BY--NC--SA%204.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org).
