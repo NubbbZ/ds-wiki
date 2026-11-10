@@ -8,6 +8,11 @@ Welcome to my own personal project of Identifying/Organizing/Archiving and stori
 * [NDS CARTRIDGE BOARD TYPES](./docs/guides/NDS_CARTRIDGE_BOARD_TYPES.md)
 * [NDS CARTRIDGE SAVE CHIPS](./docs/guides/NDS_CARTRIDGE_SAVE_CHIPS.md)
 
+### NDS Hardware:
+
+* [NDS CPU](./docs/guides/NDS_CPU.md)
+* [NDS RAM](./docs/guides/NDS_RAM.md)
+
 ## Related Topics
 
 ### Hardware:
